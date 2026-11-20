@@ -1,0 +1,18 @@
+CarPlay 可以用 Gemini 了，開車時用講的就能問行程、聽未讀信。想看更多 AI 和 3C 的白話解說，追蹤 @dada3c.tw
+
+Gemini CarPlay 設定只有 4 個步驟，都在 iPhone 上先做完：
+
+1. 把 Gemini app 更新到最新版
+2. 打開 Gemini 的麥克風權限
+3. 先在手機上用過一次 Gemini Live
+4. 手機接上車，點 CarPlay 螢幕上的 Gemini 圖示
+
+第 3 步最常被漏掉，官方把它列為必要步驟。
+
+台灣可以用，中文也能講。功能是分批開放，更新完還沒看到圖示的話，過幾天再看一次。
+
+開車時要變換車道、進出匝道，對話該停就停。
+
+資料來源：Google 官方部落格，2026 年 11 月 11 日公告。
+
+#CarPlay #Gemini #GeminiLive #AI工具 #3C
