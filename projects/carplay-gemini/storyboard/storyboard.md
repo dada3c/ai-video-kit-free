@@ -4,7 +4,7 @@
 - 音檔：`inputs/silent.m4a`（靜音），長度 **49.20 秒**
 - 時間來源：`timing/lines.json`（silent-timing.py，閱讀速度每秒 4 字；英文專有名詞多，所以比預設慢一點）
 - 規格：1080×1920、30fps；配色照 `brands/dada3c/brand.md`（深墨藍綠底、亮草綠 r3 主角、暖橘 r1 警示）
-- 狀態：**待使用者確認**
+- 狀態：**已確認並完成渲染**（2026-11-20）→ `output/carplay-gemini.mp4`
 
 ## 分鏡表
 
